@@ -1,0 +1,7 @@
+iniciamos git desde la consola: git init
+pongo mail:  git config user.email "void-96@hotmail.com" y luego user:git config user.name "joaquin duarte"
+creamos repositorio en github, una vez hecho github nos tira comandos y copiamos este
+git branch -M main : este comando lo pongo en la consola y le doy enter
+hacemos lo mismo con este comando: git remote add origin https://github.com/DuaJoa96/tienda-cuadros.git
+este comando enlaza lo que hago con el repo de internet
+subo los cambios con git add . para registrarlo
